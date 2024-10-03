@@ -1,4 +1,4 @@
-const TinaObj = (objPops) => {
+const MelissaObj = (objPops) => {
   objPops = {
     nombre: "Tina",
     apellido: "Benavides",
@@ -12,4 +12,4 @@ const TinaObj = (objPops) => {
     </>
   );
 };
-export default TinaObj;
+export default MelissaObj;
